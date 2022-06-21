@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at amitkrg124@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://github.com/amitkrg124/Git_profile/blob/main/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -51,7 +51,6 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://creative-amit.netlify.app/"><img src="https://img.shields.io/badge/-creative-amit.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/amitkrg124"><img src="https://img.shields.io/badge/-Amit%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:amitkrg124@gmail.com"><img src="https://img.shields.io/badge/-amitkrg124@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/amitjack360_"><img src="https://img.shields.io/badge/-@amit__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
