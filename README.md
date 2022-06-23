@@ -8,7 +8,7 @@
 
 🎓 &nbsp;I'm an experienced Full-stack Developer for Nethuse in New Delhi.\
 🌱 &nbsp;I am tech savvy fond of new technologies and have serious passion for UI effects, and \
-💡 &nbsp; creating intuitive, dynamic user experiences.\
+💡 &nbsp; creating intuitive, captivative and dynamic user experiences.\
 ✍️ &nbsp;In my free time I love to explore new technologies and develop software solutions & quick hacks.\
 ✉️ &nbsp;You can shoot me an email at amitkrg124@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://github.com/amitkrg124/Git_profile/blob/main/assets/Amit's%20Resume%20Native.pdf) for more details about me. I'm open to feedback and suggestions!
